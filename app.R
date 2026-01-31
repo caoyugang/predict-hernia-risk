@@ -7,7 +7,7 @@ library(ggplot2)
 library(readr)
 
 
-data <- read_csv("sample_data.csv", show_col_types = FALSE)
+data <- read_csv("C:/Users/c7970/Desktop/sample_data.csv", show_col_types = FALSE)
 
 target_var <- "Hernia"  # Dependent variable: Hernia (ensure this column is 0/1 or binary factor)
 feature_vars <- setdiff(colnames(data), target_var)  # Independent variables: risk factors

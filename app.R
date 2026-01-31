@@ -1,10 +1,9 @@
 # 1. Load dependent packages (remove fastshap, keep core packages only)
-install.packages(c("shiny", "randomForest", "dplyr", "ggplot2", "caret", "readr"))
+install.packages(c("shiny", "randomForest", "dplyr", "ggplot2", "readr"))
 library(shiny)
 library(randomForest)
 library(dplyr)
 library(ggplot2)
-library(caret)
 library(readr)
 
 

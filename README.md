@@ -3,7 +3,7 @@ An interactive hernia risk prediction calculator based on Random Forest (RF) alg
 
 ## Quick Access (No Local Installation Required)
 Click the Binder badge below to launch the tool directly in your browser:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caoyugang/predict-hernia-risk/main?urlpath=shiny/app.R)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caoyugang/hernia-risk-prediction/main?urlpath=shiny/app.R)
 
 ## How to Use
 1. After clicking the Binder badge, wait 1-2 minutes for the environment to build (first launch may take longer).
